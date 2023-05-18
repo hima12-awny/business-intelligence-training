@@ -1,5 +1,5 @@
 # business-intelligence-training
-projects from Potentia's Business Intelligence training
+this GitHub repository showcases  projects from the Business Intelligence training sessions at Potentia. This repository comprises three folders, each containing a project from a specific session, highlighting my skills in various aspects of data analysis and business intelligence.
 
 ## 1- Web Scraping Project (Session 1):
 In this project, I demonstrate proficiency in web scraping techniques. I have implemented scripts to extract valuable data from websites, enabling the collection of relevant information for further analysis.
